@@ -34,6 +34,12 @@ sections:
   - page
   - tags
   - search
+- type: jekyll-pages
+  label: Base Pages
+  create: all
+  match: "**/*"
+  templates:
+  - post
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''
