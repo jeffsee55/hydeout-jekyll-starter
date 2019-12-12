@@ -37,7 +37,6 @@ sections:
 - type: jekyll-pages
   label: Base Pages
   create: all
-  match: "**/*"
   templates:
   - post
 upload_dir: assets/img
