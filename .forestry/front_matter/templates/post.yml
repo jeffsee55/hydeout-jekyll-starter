@@ -45,5 +45,5 @@ fields:
   description: Active if you want to allow comments (this option is only available
     if you've set Disqus up in your Site Configuration)
 pages:
-- this-is-a-test.md
 - My Folder/woq.md
+- this-is-a-test.md
